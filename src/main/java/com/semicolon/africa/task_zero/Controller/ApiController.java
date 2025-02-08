@@ -1,7 +1,6 @@
 package com.semicolon.africa.task_zero.Controller;
 
 import com.semicolon.africa.task_zero.Response.ApiResponse;
-import org.apache.catalina.connector.Response;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
